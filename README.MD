@@ -1,1 +1,1 @@
-# Projetos feitos em Python 
+# Projetos feitos usando Linguagem Python 
